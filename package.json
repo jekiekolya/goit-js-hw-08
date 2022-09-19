@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://jekiekolya.github.io/goit-js-hw-08/"
+    "url": "git+https://jekiekolya.github.io/goit-js-hw-08"
   },
   "keywords": [],
   "author": "Mykola Berezhniuk <bermykola@gmail.com>",
@@ -18,8 +18,7 @@
     "url": "https://jekiekolya.github.io/goit-js-hw-08/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0",
-    "simplelightbox": "^2.10.3"
+    "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
