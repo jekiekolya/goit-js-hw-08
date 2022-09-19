@@ -15,7 +15,7 @@
   "author": "Mykola Berezhniuk <bermykola@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://jekiekolya.github.io/goit-js-hw-08/issues"
+    "url": "https://jekiekolya.github.io/goit-js-hw-08"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
